@@ -17,6 +17,7 @@ public class HelloOne {
      */
     public static void main(String[] args) {
         System.out.println("second git project - modification one");
+        int a = 9; //ide update
     }
     
 }
